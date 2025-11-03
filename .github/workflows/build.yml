@@ -20,3 +20,5 @@ jobs:
       packages: write
       attestations: write
       id-token: write
+    with:
+      context: ./
